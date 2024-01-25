@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there I´m Xime 👋
+👩‍💻 I´m studying software engineering 
+👾 Ask me about Gundams and Lego Sets
+⚡ Fun fact: I´m watching Dr. House
 <!--
 **XimenaCapitaine/XimenaCapitaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
